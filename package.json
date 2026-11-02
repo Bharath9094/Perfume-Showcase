@@ -1,0 +1,10 @@
+{
+  "name": "ecorce-parfums-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A scroll-led ÉCORCE perfume house showcase",
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs"
+  }
+}
